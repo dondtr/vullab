@@ -12,10 +12,6 @@ Every lab ships in **two versions**:
 | **v1** | `/api/v1/*` | **Vulnerable** — the flaw is present so you can exploit it. |
 | **v2** | `/api/v2/*` | **Secure** — the same feature with the vulnerability fixed, for side-by-side comparison. |
 
-> ⚠️ **For local, educational use only.** This application contains intentional
-> security flaws, hardcoded weak secrets, and insecure defaults. Never deploy it
-> to a public or production environment.
-
 ---
 
 ## Tech Stack
